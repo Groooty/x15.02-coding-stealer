@@ -1,0 +1,9 @@
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\bin\Debug\Stealer.exe.config
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\bin\Debug\Stealer.exe
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\bin\Debug\Stealer.pdb
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.csprojResolveAssemblyReference.cache
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.Stealer.resources
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.Properties.Resources.resources
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.csproj.GenerateResource.Cache
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.exe
+D:\C# SOFT MY PROGS\Source Code C#\Xakep9 Stealer\Stealer\Stealer\obj\Debug\Stealer.pdb
